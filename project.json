@@ -1,0 +1,20 @@
+{
+  "overview": "An interactive 3D solar system visualization showing all 8 planets and their major moons with orbital animations, camera controls, and a clean minimal UI.",
+  "features": [
+    "3D solar system with Sun, 8 planets, and 20+ moons",
+    "Animated orbital mechanics with realistic relative speeds",
+    "Click to focus camera on any planet or moon",
+    "Toggle labels and orbit paths on/off",
+    "Adjustable animation speed slider",
+    "Pause/play and camera reset controls"
+  ],
+  "category": "interactive",
+  "tags": [
+    "solar-system",
+    "3d",
+    "space",
+    "visualization",
+    "three-js"
+  ],
+  "last_updated": "2026-04-17T12:07:00.112Z"
+}
